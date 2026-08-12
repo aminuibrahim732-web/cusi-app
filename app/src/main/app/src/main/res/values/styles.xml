@@ -1,6 +1,0 @@
-<resources>
-<style name="Theme.CUSI" parent="android:style/Theme.Material.Light.NoActionBar">
-    <item name="android:fontFamily">sans</item>
-    <item name="android:colorAccent">#0B5CAB</item>
-</style>
-</resources>
